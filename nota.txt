@@ -1,0 +1,3 @@
+somehow i cant visualize my code from the github preview, but from visualStudio live server, it works. 
+if there is any issue visualizing it let me know. 
+thanks!
